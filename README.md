@@ -15,7 +15,7 @@
 * cd reconx/
 * chmod +x install.sh reconx.sh
 * ./install.sh
-<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/0ximtiaz/reconx/blob/main/reconx.png"/>
+<img hight="300" width="400" alt="GIF" align="left" src="https://github.com/0ximtiaz/reconx/blob/main/reconx.png"/>
 
 ## Example Usage:
 ```bash
