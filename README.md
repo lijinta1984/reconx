@@ -9,4 +9,8 @@ reconx is a tool that scas sub-domains, sub-domain takeover, filter dead records
 * cd reconx/
 * chmod +x install.sh reconx.sh
 * ./install.sh
-* ./reconx.sh target.com
+
+# Example Usage:
+```bash
+./reconx.sh target.com
+```
