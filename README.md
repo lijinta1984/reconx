@@ -15,6 +15,7 @@
 * cd reconx/
 * chmod +x install.sh reconx.sh
 * ./install.sh
+https://github.com/0ximtiaz/reconx/blob/main/reconx.png
 
 ## Example Usage:
 ```bash
