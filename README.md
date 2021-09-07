@@ -23,7 +23,7 @@
 ./reconx.sh target.com
 ```
 ### Donate
-<a href="https://ko-fi.com/i/"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+<a href="https://ko-fi.com/imtiaz"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 
 ### Thanks to the authors of the tools used in this script.
 
