@@ -27,4 +27,4 @@
 
 ### Thanks to the authors of the tools used in this script.
 
-[@aboul3la](https://github.com/aboul3la) [@tomnomnom](https://github.com/tomnomnom) [@lc](https://github.com/lc) [@projectdiscovery](https://github.com/projectdiscovery) [@projectdiscovery](https://github.com/projectdiscovery)
+[@aboul3la](https://github.com/aboul3la) [@tomnomnom](https://github.com/tomnomnom) [@lc](https://github.com/lc) [@projectdiscovery](https://github.com/projectdiscovery)
